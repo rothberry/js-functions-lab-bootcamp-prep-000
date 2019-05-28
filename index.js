@@ -8,11 +8,11 @@ function happyHolidaysTo(name) {
   return "Happy holidays, you!"
 }
 
-// function happyHolidayTo(string) {
-//   return string('Happy ${holiday}, ${name}')
-// }
-//
-// function holidayCountdown(string) {
-//   return string('Its ${days} until ${holiday}')
-//
-// }
+function happyHolidayTo(string) {
+  return 
+}
+
+function holidayCountdown(string) {
+  return 
+
+}
