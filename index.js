@@ -4,15 +4,15 @@ function happyHolidays(string) {
 
 }
 
-function happyHolidaysTo(string) {
+function happyHolidaysTo(name) {
   return "Happy holidays, ${name}"
 }
 
-function happyHolidayTo(string) {
-  return string('Happy ${holiday}, ${name}')
-}
-
-function holidayCountdown(string) {
-  return string('Its ${days} until ${holiday}')
-
-}
+// function happyHolidayTo(string) {
+//   return string('Happy ${holiday}, ${name}')
+// }
+// 
+// function holidayCountdown(string) {
+//   return string('Its ${days} until ${holiday}')
+// 
+// }
