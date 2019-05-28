@@ -5,7 +5,7 @@ function happyHolidays(string) {
 }
 
 function happyHolidaysTo(string) {
-  return string('Happy holidays, ${name}')
+  return "Happy holidays, ${name}"
 }
 
 function happyHolidayTo(string) {
