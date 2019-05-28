@@ -9,10 +9,10 @@ function happyHolidaysTo(name) {
 }
 
 function happyHolidayTo(string) {
-  return 
+  return
 }
 
 function holidayCountdown(string) {
-  return 
+  return
 
 }
